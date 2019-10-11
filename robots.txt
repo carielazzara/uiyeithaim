@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uapheichai.anything.codes/sitemap.xml
